@@ -1,0 +1,11 @@
+{
+  "name": "n-ipc",
+  "version": "1.0.0",
+  "description": "n-ipc",
+  "main": "index.js",
+  "author": "IbrahimSaad",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

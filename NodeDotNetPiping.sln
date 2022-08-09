@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeDotNetPiping.DotNetServer", "NodeDotNetPiping.DotNetServer\NodeDotNetPiping.DotNetServer.csproj", "{651900D9-F1F6-425E-BE89-68BCC33A78AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{651900D9-F1F6-425E-BE89-68BCC33A78AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651900D9-F1F6-425E-BE89-68BCC33A78AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651900D9-F1F6-425E-BE89-68BCC33A78AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651900D9-F1F6-425E-BE89-68BCC33A78AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03C754A0-3315-4560-AAB2-1DEDF3E5BE4C}
+	EndGlobalSection
+EndGlobal
