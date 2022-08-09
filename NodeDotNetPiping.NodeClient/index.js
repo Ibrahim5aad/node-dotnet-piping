@@ -5,6 +5,7 @@ var pipePath = "\\\\.\\pipe\\Pipe.Server";
 
 var client = net.connect(pipePath, connectionListener = function() 
 	{ 
+		console.log("Client connected..")
 		client.on('data', (data) => { console.log('Message recieved from server: ' + data.toString()); 
 	});
 });
